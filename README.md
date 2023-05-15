@@ -1,3 +1,3 @@
 # docker-compose-pgadmin
 
-docker-compose up
+docker-compose up -d
